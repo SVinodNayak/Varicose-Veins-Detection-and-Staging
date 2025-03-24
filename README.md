@@ -1,1 +1,0 @@
-# Varicose-Veins-Detection-and-Staging
